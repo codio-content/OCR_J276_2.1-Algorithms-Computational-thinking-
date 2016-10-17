@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "c1179dc2-c280-da32-de75-6479f4d7c692",
+   "title": "Computational thinking ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computational-thinking--c117.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "47d8490b-259c-6614-de9b-b3f4572b48db",
+   "title": "Decomposition",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Decomposition-47d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "faf2dc77-ccbd-cd19-a437-8184c8955125",
+   "title": "Abstraction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Abstraction-faf2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "64ba8a11-dcec-d695-1642-666cc72626ff",
+   "title": "Rectangles and triangles",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Rectangles-and-triangles-64ba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3390eb40-cad4-74f9-64ae-2c0aada05f0d",
+   "title": "Algorithmic thinking",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Algorithmic-thinking-3390.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "52004600-e077-b3af-2893-61da0acdb893",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-5200.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "baefc22f-186a-b6fd-6743-3db2e7a60fb9",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-baef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

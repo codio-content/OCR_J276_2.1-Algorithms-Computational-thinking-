@@ -1,0 +1,61 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-283411511",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The role of a computer scientists is to <<<analyse>>> problems by <<<decomposing>>> them into smaller tasks and then <<<abstracting>>> the important details.",
+   "tokens": {
+    "blank": [
+     "analyse",
+     "decomposing",
+     "abstracting"
+    ],
+    "text": [
+     "The role of a computer scientists is to ",
+     0,
+     " problems by ",
+     0,
+     " them into smaller tasks and then ",
+     0,
+     " the important details."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3989433033",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "They then have to present the solution as a clear set of <<<instructions>>> called an <<<algorithm>>>. They should be <<<unambiguous>>> and <<<accurate>>>  so that the expected outcome is achieved each time.",
+   "tokens": {
+    "blank": [
+     "instructions",
+     "algorithm",
+     "unambiguous",
+     "accurate"
+    ],
+    "text": [
+     "They then have to present the solution as a clear set of ",
+     0,
+     " called an ",
+     0,
+     ". They should be ",
+     0,
+     " and ",
+     0,
+     "  so that the expected outcome is achieved each time."
+    ]
+   }
+  }
+ }
+]
