@@ -4,7 +4,7 @@ As smaller algorithms are developed for each sub-problem, it is easier to spot a
 
 It also enables different individuals or groups to work on different sub-problems at the same time. 
 
-In section 2.6, lesson 4 there is a coding challenge to create a program that will allow a user to convert numbers between denary, binary and hexadecimal. This challenge definitely needs decomposition into smaller parts such as:
+In section 2.6, lesson 4 you were shown how to convert numbers between denary, binary and hexadecimal. This definitely needs decomposition into smaller parts such as:
 
 1. Allow user to select number system for entry.
 1. Allow user to enter number and validate - denary number is 255 or less, a binary number has only 8 digits which are 1s and/or 0s and hexadecimal numbers have two digits which are in the range 0 to 9 or A to F.
