@@ -36,13 +36,13 @@
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "They then have to present the solution as a clear set of <<<instructions>>> called an <<<algorithm>>>. They should be <<<unambiguous>>> and <<<accurate>>>  so that the expected outcome is achieved each time.",
+   "text": "They then have to present the solution as a clear set of <<<instructions>>> called an <<<algorithm>>>. They should be <<<unambiguous>>> in nature and the <<<accuracy>>> of them are important so that the expected outcome is achieved each time.",
    "tokens": {
     "blank": [
      "instructions",
      "algorithm",
      "unambiguous",
-     "accurate"
+     "accuracy"
     ],
     "text": [
      "They then have to present the solution as a clear set of ",
@@ -51,9 +51,9 @@
      0,
      ". They should be ",
      0,
-     " and ",
+     " in nature and the ",
      0,
-     "  so that the expected outcome is achieved each time."
+     " of them are important so that the expected outcome is achieved each time."
     ]
    }
   }
